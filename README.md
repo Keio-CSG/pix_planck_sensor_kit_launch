@@ -1,1 +1,1 @@
-# sample_sensor_kit_launch
+# pix_planck_sensor_kit_launch
